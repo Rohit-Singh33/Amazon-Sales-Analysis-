@@ -20,6 +20,6 @@ In this project, a comprehensive analysis is conducted on the Amazon Sales datas
 ## Repository Content
 
 -  **Amazon Sales Analysis.ipynb** - IPYNB File - Python file with all the data analysis
--  **Amazon Sales Recording** - 
+-  **Amazon Sales Recording** - Recording and explation the project 
 -  **Amazon Sales data** - Excel File - Raw data of Amazon sales
 -  **Amazon Sales Analysis.pptx** - PPT File - Presentation on the analysis
